@@ -104,8 +104,9 @@ Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐
 매일 오전 8시 35분에 제품 목록 업데이트가 이루어져요.
 업데이트는 서버에서 이루어지기 때문에 사용자는 기다리지 않아도 돼요.
 
-![loading](https://raw.githubusercontent.com/Burgerput/.github/main/images/loading.png)
-![loading2](https://raw.githubusercontent.com/Burgerput/.github/main/images/loading2.png)
+<img width="720" alt="enterMachineResult" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/loading.png">
+<img width="720" alt="enterMachineResult" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/loading2.png">
+
 
 <br />
 
