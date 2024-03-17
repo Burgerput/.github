@@ -68,14 +68,6 @@
 
 ## 주요 기능 소개 🖥️
 
-<p align="center">
-  <img src="이미지 경로" alt="주요 기능 소개" />
-</p>
-
-<br />
-<br />
-<br />
-
 ### 사용하는 기기 장비 및 식품만을 선택하세요.
 
 우리 프로젝트는 사용하는 제품만을 선택해 입력할 수 있어요.  
@@ -124,7 +116,7 @@ Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐
 
 ### 인프라 구조
 
-![infra](https://raw.githubusercontent.com/Burgerput/.github/main/images/infra.png)
+![infra](https://raw.githubusercontent.com/Burgerput/.github/main/images/Infra.png)
 
 ### CI/CD 파이프라인
 
