@@ -1,6 +1,8 @@
 # Burgerput
-
-![loading](https://raw.githubusercontent.com/Burgerput/.github/main/images/logo.png)
+<p align="center">
+  <img width="240" alt="Frame 205" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/logo.png">
+</p>
+<br />
 
 ## 프로젝트 소개 📝
 
@@ -21,20 +23,17 @@
 자체적인 입력 값 검증 및 제품 선택을 통해 사용자의 업무 편의성을 증가시켜요.
 
 <br />
-<br />
 
 ## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
 
 |<img src="https://avatars.githubusercontent.com/u/32352161?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/112407281?v=4" width="150" height="150"/>|
 |:-:|:-:|
+|BackEnd|FrontEnd|
 |yellTa<br/>[@yellTa](https://github.com/yellTa)|Prolip<br/>[@GoJiMin](https://github.com/GoJiMin)|
 
 <br />
-<br />
 
 ## 기술 스택 ⚙️
-
-### 백엔드
 
 ### 백엔드
 
@@ -63,7 +62,6 @@
 ![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
 
 
-<br />
 <br />
 
 ## 주요 기능 소개 🖥️
@@ -110,7 +108,6 @@ Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐
 ![loading2](https://raw.githubusercontent.com/Burgerput/.github/main/images/loading2.png)
 
 <br />
-<br />
 
 ## 인프라 🧬
 
@@ -122,7 +119,6 @@ Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐
 
 ![ci-cd](https://raw.githubusercontent.com/Burgerput/.github/main/images/ci-cd.png)
 
-<br />
 <br />
 
 
