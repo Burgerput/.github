@@ -1,10 +1,10 @@
 # Burgerput
 <p align="center">
-  <img width="240" alt="Frame 205" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/logo.png">
+  <img width="180" alt="Frame 205" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/logo.png">
 </p>
 <a href="https://github.com/GoJiMin/BURGERPUT">
   <p align="center" style="font-size: larger;">
-    개발 과정의 레포지토리 바로가기
+    분리 이전의 레포지토리 바로가기
   </p>
 <a/>
   
