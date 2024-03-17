@@ -31,30 +31,29 @@ Zenput을 안전하게!
 
 ### 백엔드
 
-![java](https://img.shields.io/badge/java-#64BAFF?style=for-the-badge&logo=openjdk)
-![selenium](https://img.shields.io/badge/selenium-#43B02A?style=for-the-badge&logo=selenium)
-![spring](https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring)
-![mysql](https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql)
+<img src="https://img.shields.io/badge/java-#64BAFF?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/selenium-#43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### 프론트엔드
 
-![react](https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react)
-![axios](https://img.shields.io/badge/axios-#5A29E4?style=for-the-badge&logo=axios)
-![reactquery](https://img.shields.io/badge/reactquery-#FF4154?style=for-the-badge&logo=reactquery)
-![javascript](https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript)
-![vite](https://img.shields.io/badge/{vite}-#646CFF?style=for-the-badge&logo=vite)
+<img src="https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/axios-#5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/reactquery-#FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/vite-#646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
 ## 인프라
 
-![linux](https://img.shields.io/badge/linux-#FCC624?style=for-the-badge&logo=linux)
-![git](https://img.shields.io/badge/git-#F05032?style=for-the-badge&logo=git)
-![github](https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github)
-![githubactions](https://img.shields.io/badge/githubactions-#2088FF?style=for-the-badge&logo=githubactions)
-![amazonaws](https://img.shields.io/badge/amazonaws-#232F3E?style=for-the-badge&logo=amazonaws)
-![amazons3](https://img.shields.io/badge/amazons3-#569A31?style=for-the-badge&logo=amazons3)
-![amazonec2](https://img.shields.io/badge/amazonec2-#FF9900?style=for-the-badge&logo=amazonec2)
-![amazonroute53](https://img.shields.io/badge/amazonroute53-#8C4FFF?style=for-the-badge&logo=amazonroute53)
-
+<img src="https://img.shields.io/badge/linux-#FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/git-#F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-#2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-#232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-#569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazonec2-#FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazonroute53-#8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
 
 <br />
 <br />
