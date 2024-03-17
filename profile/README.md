@@ -2,6 +2,12 @@
 <p align="center">
   <img width="240" alt="Frame 205" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/logo.png">
 </p>
+<a href="https://github.com/GoJiMin/BURGERPUT">
+  <p align="center" style="font-size: larger;">
+    개발 과정의 레포지토리 바로가기
+  </p>
+<a/>
+  
 <br />
 
 ## 프로젝트 소개 📝
