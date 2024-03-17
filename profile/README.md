@@ -97,7 +97,7 @@
 Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐해 저장해요
 이는 혹시라도 발생할 문제를 방지하고 로그를 가지기 위함이에요.
 
-![enterMachineResult](https://raw.githubusercontent.com/Burgerput/.github/main/images/enterMachineResult.png)
+<img width="360" alt="enterMachineResult" src="https://raw.githubusercontent.com/Burgerput/.github/main/images/enterMachineResult.png">
 
 ### 제품의 변동 사항을 매일 업데이트해요.
 
