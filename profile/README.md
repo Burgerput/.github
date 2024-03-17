@@ -81,7 +81,9 @@
 우리 프로젝트는 사용하는 제품만을 선택해 입력할 수 있어요.  
 사용자에게 UI를 제공해 쉽게 제품을 선택할 수 있어요.
 
-![image](이미지 경로)
+![machineChoose](https://raw.githubusercontent.com/Burgerput/.github/main/images/machinechoose.gif)
+<br />
+![machineChooseResult](https://raw.githubusercontent.com/Burgerput/.github/main/images/machinechooseResult.gif)
 
 <br />
 
@@ -90,26 +92,43 @@
 제품별로 최소 온도와 최대 온도를 제공해 입력 값을 검증해요.
 입력 값에 문제가 있다면 값을 지우고 사용자에게 알려줘요.
 
-![image](이미지 경로)
+![enterMachine](https://raw.githubusercontent.com/Burgerput/.github/main/images/enterMachine.gif)
+<br />
+
+Zenput 사이트 내에서 제출을 누르기 전에 입력된 화면을 캡쳐해 저장해요
+이는 혹시라도 발생할 문제를 방지하고 로그를 가지기 위함이에요.
+
+![enterMachineResult](https://raw.githubusercontent.com/Burgerput/.github/main/images/enterMachineResult.png)
+
 
 <br />
+
+### 검증 후 제출까지
+
+우리 웹 어플리케이션을 통해 입력이 끝나면 제출 버튼을 클릭해 제출까지 완료할 수 있어요.
+
+![wrongValue](https://raw.githubusercontent.com/Burgerput/.github/main/images/wrongValue.gif)
 
 ### 제품의 변동 사항을 매일 업데이트해요.
 
 매일 오전 8시 35분에 제품 목록 업데이트가 이루어져요.
 업데이트는 서버에서 이루어지기 때문에 사용자는 기다리지 않아도 돼요.
 
-![image](이미지 경로)
+![enterMachineResult](https://raw.githubusercontent.com/Burgerput/.github/main/images/loading.png)
+![enterMachineResult](https://raw.githubusercontent.com/Burgerput/.github/main/images/loading2.png)
+
+<br />
+<br />
 
 ## 인프라 🧬
 
 ### 인프라 구조
 
-![인프라](이미지 경로)
+![infra](https://raw.githubusercontent.com/Burgerput/.github/main/images/infra.png)
 
 ### CI/CD 파이프라인
 
-![파이프라인](이미지 경로)
+![ci-cd](https://raw.githubusercontent.com/Burgerput/.github/main/images/ci-cd.png)
 
 <br />
 <br />
