@@ -7,7 +7,16 @@
     분리 이전의 레포지토리 바로가기
   </p>
 <a/>
-  
+<a href="https://github.com/Burgerput/Burgerput_FE">
+  <p align="center" style="font-size: larger;">
+    프론트엔드 레포지토리 바로가기
+  </p>
+<a/>
+<a href="https://github.com/Burgerput/Burgerput_BE">
+  <p align="center" style="font-size: larger;">
+    백엔드 레포지토리 바로가기
+  </p>
+<a/>    
 <br />
 
 ## 프로젝트 소개 📝
