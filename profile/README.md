@@ -12,6 +12,11 @@
     프론트엔드 레포지토리 바로가기
   </p>
 <a/>
+<a href="https://github.com/GoJiMin/Burgerput_chat_server">
+  <p align="center" style="font-size: larger;">
+    버거풋 채팅 서버 레포지토리 바로가기
+  </p>
+<a/>
 <a href="https://github.com/Burgerput/Burgerput_BE">
   <p align="center" style="font-size: larger;">
     백엔드 레포지토리 바로가기
